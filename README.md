@@ -1,10 +1,13 @@
-<h1 align="center">i'm Parham Shyasi</h1>
-<h3 align="center">Web developer and system administrator <p align="left"> <img src="https://komarev.com/ghpvc/?username=parham0541&label=Profile%20views&color=0e75b6&style=flat" alt="parham0541" /> </p>
+
+
+<img src="https://static.roocket.ir/images/avatar/2024/7/24/CE1bKFY5EoSnhocGGtB8g7hTwXHXHCpabOMNNBu5.png" alt="parham0541" height="200">
+<h1 align="left">i'm Parham Shyasi <img src="https://cdn.nody.ir/files/2022/02/23/nody-%D8%B9%DA%A9%D8%B3-%D9%86%D8%A7%D8%B2%DB%8C-1645584638.gif" height="45" ></h1>
+<h3 align="center"> <img src="https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" height="50" > Web developer and system administrator  <img src="https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" height="50" ><p align="left"> <img src="https://komarev.com/ghpvc/?username=parham0541&label=Profile%20views&color=0e75b6&style=flat" alt="parham0541" /> </p>
 </h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parham0541&show_icons=true&locale=en&layout=compact" alt="parham0541" /></p>
 
-
-
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Rotating_Tux.gif" height="200" >
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parham0541" alt="parham0541" /></a> </p>
 
 - My resume website: [my resume](https://parham0541.github.io/)
@@ -37,7 +40,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parham0541&show_icons=true&locale=en" alt="parham0541" /></p>
-
+<img src="https://www.gifservice.fr/img/gif-vignette-large/72355c53f1c26258a7628548892f293d/49294-linux-computer-software-multi-media.gif" >
 
 
 <h3 align="left">Support:</h3>
