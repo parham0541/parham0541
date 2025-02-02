@@ -1,6 +1,4 @@
 
-
-<img src="https://static.roocket.ir/images/avatar/2024/7/24/CE1bKFY5EoSnhocGGtB8g7hTwXHXHCpabOMNNBu5.png" alt="parham0541" height="200">
 <h1 align="left">i'm Parham Shyasi <img src="https://cdn.nody.ir/files/2022/02/23/nody-%D8%B9%DA%A9%D8%B3-%D9%86%D8%A7%D8%B2%DB%8C-1645584638.gif" height="45" ></h1>
 <h3 align="center"> <img src="https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" height="50" > Web developer and system administrator  <img src="https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" height="50" ><p align="left"> <img src="https://komarev.com/ghpvc/?username=parham0541&label=Profile%20views&color=0e75b6&style=flat" alt="parham0541" /> </p>
 </h3>
